@@ -1,5 +1,5 @@
 
-const MySecretKey = "Bearer sk_test_b5782f706e246d5249bd65a38ff160a629666aac";
+const MySecretKey = "Bearer sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 const paystack = (request) => {
   //replace the secret key with that from your paystack account
   const initializePayment = (form, mycallback) => {
