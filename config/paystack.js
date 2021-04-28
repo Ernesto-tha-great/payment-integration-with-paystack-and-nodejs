@@ -1,4 +1,4 @@
-require("dotenv").config();
+
 const MySecretKey = "Bearer sk_test_b5782f706e246d5249bd65a38ff160a629666aac";
 const paystack = (request) => {
   //replace the secret key with that from your paystack account
